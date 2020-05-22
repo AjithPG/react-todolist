@@ -11,7 +11,7 @@ const App = () => {
   return (
     //JSX
     <div className="todo-container">
-    <h1>Todo List</h1>
+    <h1>React Todo List </h1>
          {todoData}
     </div>
   
