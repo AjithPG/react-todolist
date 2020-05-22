@@ -1,0 +1,28 @@
+div h1{
+  text-align: center;
+}
+
+.todo-container{
+  background-color: #fff;
+  border: 1px solid #efefef;
+  width:50%;
+  margin:auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  margin-top: 3rem;
+}
+
+.todo-list{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 30px 20px 0;
+  width: 70%;
+  border-bottom: 1px solid #cecece;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    color: #333333;
+}
